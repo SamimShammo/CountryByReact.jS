@@ -1,0 +1,13 @@
+.Coun{
+    background: linear-gradient(to top, #00ffff 0%, #ff00ff 100%);
+   margin: 5px;
+   margin-bottom: 20px;
+   padding: 20px;
+}
+.flagImg{
+    width: 100%;
+    height: 200px;
+}
+.population{
+    text-align: center;
+}
